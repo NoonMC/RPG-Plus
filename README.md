@@ -7,6 +7,7 @@ Join the Discord to meet the amazing community: https://discord.gg/fXzGuDYRjN
 
 # Download
 https://www.curseforge.com/minecraft/modpacks/rpg-plus
+
 Server pack for if you want to make your own server also available.
 
 # FAQ
